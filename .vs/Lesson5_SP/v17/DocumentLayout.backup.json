@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\c#\\Lesson5_SP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3ADA34B-42F9-4065-9578-A5CD69CA07BD}|Lesson5_SP\\Lesson5_SP.csproj|c:\\users\\admin\\desktop\\c#\\lesson5_sp\\lesson5_sp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3ADA34B-42F9-4065-9578-A5CD69CA07BD}|Lesson5_SP\\Lesson5_SP.csproj|solutionrelative:lesson5_sp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3ADA34B-42F9-4065-9578-A5CD69CA07BD}|Lesson5_SP\\Lesson5_SP.csproj|c:\\users\\admin\\desktop\\c#\\lesson5_sp\\lesson5_sp\\monitornumunesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3ADA34B-42F9-4065-9578-A5CD69CA07BD}|Lesson5_SP\\Lesson5_SP.csproj|solutionrelative:lesson5_sp\\monitornumunesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3ADA34B-42F9-4065-9578-A5CD69CA07BD}|Lesson5_SP\\Lesson5_SP.csproj|c:\\users\\admin\\desktop\\c#\\lesson5_sp\\lesson5_sp\\deadlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3ADA34B-42F9-4065-9578-A5CD69CA07BD}|Lesson5_SP\\Lesson5_SP.csproj|solutionrelative:lesson5_sp\\deadlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MonitorNumunesi.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\Lesson5_SP\\Lesson5_SP\\MonitorNumunesi.cs",
+              "RelativeDocumentMoniker": "Lesson5_SP\\MonitorNumunesi.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\Lesson5_SP\\Lesson5_SP\\MonitorNumunesi.cs*",
+              "RelativeToolTip": "Lesson5_SP\\MonitorNumunesi.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T12:50:08.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeadLock.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\Lesson5_SP\\Lesson5_SP\\DeadLock.cs",
+              "RelativeDocumentMoniker": "Lesson5_SP\\DeadLock.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\Lesson5_SP\\Lesson5_SP\\DeadLock.cs",
+              "RelativeToolTip": "Lesson5_SP\\DeadLock.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T12:29:39.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\Lesson5_SP\\Lesson5_SP\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson5_SP\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\Lesson5_SP\\Lesson5_SP\\Program.cs*",
+              "RelativeToolTip": "Lesson5_SP\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T12:24:45.212Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

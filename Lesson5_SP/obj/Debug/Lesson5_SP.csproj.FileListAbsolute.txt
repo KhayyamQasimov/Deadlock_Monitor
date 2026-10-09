@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\c#\Lesson5_SP\Lesson5_SP\bin\Debug\Lesson5_SP.exe.config
+C:\Users\Admin\Desktop\c#\Lesson5_SP\Lesson5_SP\bin\Debug\Lesson5_SP.exe
+C:\Users\Admin\Desktop\c#\Lesson5_SP\Lesson5_SP\bin\Debug\Lesson5_SP.pdb
+C:\Users\Admin\Desktop\c#\Lesson5_SP\Lesson5_SP\obj\Debug\Lesson5_SP.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\c#\Lesson5_SP\Lesson5_SP\obj\Debug\Lesson5_SP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\Lesson5_SP\Lesson5_SP\obj\Debug\Lesson5_SP.exe
+C:\Users\Admin\Desktop\c#\Lesson5_SP\Lesson5_SP\obj\Debug\Lesson5_SP.pdb
+C:\Users\Admin\Desktop\c#\Lesson5_SP\Lesson5_SP\obj\Debug\Lesson5_SP.exe.config
